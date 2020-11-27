@@ -81,14 +81,14 @@ Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/D
 
 > <b id="a">*</b> : There are four types of notes :
 - ```html
-<note></note>
+&#60note&#62&#60/note&#62
 ```
 - ```html
-<note type="info"></note>
+&#60note type="info"&#62&#60/note&#62
 ```
 - ```html
-<note type="warning"></note>
+&#60note type="warning"&#62&#60/note&#62
 ```
 - ```html
-<note type="critical"></note>
+&#60note type="critical"&#62&#60/note&#62
 ```
