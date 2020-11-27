@@ -17,20 +17,17 @@
 <h2 id="intro">Introduction</h2>
 
 **Donut** is a pure CSS library created by **[Wixonic](https://github.com/Wixonic/)**.
-			
-			<br /><br />
-			
-			<h2 id="start">Start With {{n}}</h2>
-			
-			<br />
-			
-			<h3 id="download">Download {{n}}</h3>
-			
-			<p>To use {{n}}, you must first download it.<br />Copy this to your code :</p>
-			
-			<codeBlock>
-				
-				<code><red>&#60link</red> <orange>href</orange><red>=</red><green>"https://cdn.jsdelivr.net/gh/{{a}}/{{n}}@{{v}}/{{n}}.css"</green> <orange>rel</orange><red>=</red><green>"stylesheet"</green> <red>/&#62</red></code>
+
+<h2 id="start">Start With Donut</h2>
+
+<h3 id="download">Download Donut</h3>
+
+To use Donut, you must first download it.
+Copy this to your code :
+
+```html
+<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.css" rel="stylesheet" />
+```
 				
 				<button data-clipboard-text='<link href="https://cdn.jsdelivr.net/gh/{{a}}/{{n}}@{{v}}/{{n}}.css" rel="stylesheet" />' class="copy"><i class="fas fa-copy"></i> Copy</button>
 				
