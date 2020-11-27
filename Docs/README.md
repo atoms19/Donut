@@ -47,9 +47,14 @@ To tell CSS that you are using Donut, you must put the following tag :
 After that, you can put any HTML tag in this one :
 tags will be stylized by Donut or non-stylized if they are not included in Donut.
 
-<h2 id="style">Stylized Tags</h2>
+## Stylized Tags
 
-<h2 id="license">License</h2>
+<table>
+<tr><th>Name</th><th>Code</th></tr>
+<tr><td>Paragraph</td><td><code>&#60p&#62</code></td></tr>
+</table>
+
+## License
 
 Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/Docs/LICENSE.txt)** license.
 
