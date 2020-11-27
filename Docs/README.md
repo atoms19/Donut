@@ -16,7 +16,7 @@
 
 <h2 id="intro">Introduction</h2>
 
-**Donut** is a pure CSS library created by **[Wixonic](https://github.com/Wixonic/)**.
+**Donut** is a pure CSS library created by **[Wixonic](https://github.com/Wixonic/)**. This library makes it possible to make a simple, modern and airy web page without adding (or a very little) CSS !
 
 <h2 id="start">Start With Donut</h2>
 
