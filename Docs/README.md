@@ -28,24 +28,12 @@ Copy this to your code :
 ```html
 <link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.css" rel="stylesheet" />
 ```
-				
-				<button data-clipboard-text='<link href="https://cdn.jsdelivr.net/gh/{{a}}/{{n}}@{{v}}/{{n}}.css" rel="stylesheet" />' class="copy"><i class="fas fa-copy"></i> Copy</button>
-				
-			</codeBlock>
-			
-			<br />
-			
-			<p>Minified version :</p>
-			
-			<codeBlock>
-				
-				<code><red>&#60link</red> <orange>href</orange><red>=</red><green>"https://cdn.jsdelivr.net/gh/{{a}}/{{n}}@{{v}}/{{n}}.min.css"</green> <orange>rel</orange><red>=</red><green>"stylesheet"</green> <red>/&#62</red></code>
-				
-				<button data-clipboard-text='<link href="https://cdn.jsdelivr.net/gh/{{a}}/{{n}}@{{v}}/{{n}}.min.css" rel="stylesheet" />' class="copy"><i class="fas fa-copy"></i> Copy</button>
-				
-			</codeBlock>
-			
-			<br />
+
+Minified version :
+
+```html
+<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.min.css" rel="stylesheet" />
+```
 			
 			<h3 id="howwork">How Does It Work ?</h3>
 			
