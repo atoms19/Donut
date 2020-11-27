@@ -53,15 +53,10 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/Docs/LICENSE.txt)** license.
 
-<h2 id="links">Links</h2>
-			
-			<br />
-			
-			<a href="https://github.com/{{a}}/{{n}}" class="btn"><i class="fab fa-github"></i> {{n}}</a>
-			<a href="https://github.com/{{a}}" class="btn"><i class="fab fa-github"></i> {{a}}</a>
-			
-			<br />
-			
-			<a href="https://developer.mozilla.org/en-US/profiles/{{a}}">{{a}} on MDN</a>
-			<br />
-			<a href="https://www.sololearn.com/Profile/16606191/?ref=app">{{a}} on SoloLearn</a>
+## Links
+
+**[Wixonic on GitHub](https://github.com/Wixonic/)
+ • 
+[Wixonic on MDN](https://developer.mozilla.org/en-US/profiles/Wixonic/)
+ • 
+[Wixonic on SoloLearn](https://www.sololearn.com/Profile/16606191/?ref=app)**
