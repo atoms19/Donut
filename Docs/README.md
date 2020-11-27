@@ -80,13 +80,7 @@ Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/D
 
 
 > <b id="a">*</b> : There are four types of notes :
-- <code type="html">&#60note&#62&#60/note&#62</code>
-- ```html
-&#60note type="info"&#62&#60/note&#62
-```
-- ```html
-&#60note type="warning"&#62&#60/note&#62
-```
-- ```html
-&#60note type="critical"&#62&#60/note&#62
-```
+> - <code type="html"><note></note></code>
+> - <code type="html"><note type="info"></note></code>
+> - <code type="html"><note type="warning"></note></code>
+> - <code type="html"><note type="critical"></note></code>
