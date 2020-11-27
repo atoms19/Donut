@@ -63,6 +63,7 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <tr><td>Red Code</td><td><code>&#60red&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>Orange Code</td><td><code>&#60orange&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>Green Code</td><td><code>&#60green&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Note<a href="#a">*</a></td><td><code>&#60note&#62</code><a href="#a">*</a></td></tr>
 </table>
 
 ## License
