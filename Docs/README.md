@@ -59,12 +59,18 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <tr><td>Link</td><td><code>&#60a&#62</code></td></tr>
 <tr><td>Button</td><td><code>&#60button&#62</code></td></tr>
 <tr><td>Abbreviated button</td><td><code>&#60btn&#62</code></td></tr>
+<tr><td>Note<a href="#a">*</a></td><td><code>&#60note&#62</code><a href="#a">*</a></td></tr>
 <tr><td>Code</td><td><code>&#60code&#62</code></td></tr>
 <tr><td>Red Code</td><td><code>&#60red&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>Orange Code</td><td><code>&#60orange&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>Green Code</td><td><code>&#60green&#62</code> in <code>&#60code&#62</code></td></tr>
-<tr><td>Note<a href="#a">*</a></td><td><code>&#60note&#62</code><a href="#a">*</a></td></tr>
 </table>
+
+> <b id="a">*</b> : There are four types of notes :
+> - <code>\<note>\</note></code>
+> - <code>\<note type="info">\</note></code>
+> - <code>\<note type="warning">\</note></code>
+> - <code>\<note type="critical">\</note></code>
 
 ## License
 
@@ -77,10 +83,3 @@ Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/D
 [Wixonic on MDN](https://developer.mozilla.org/en-US/profiles/Wixonic/)
  • 
 [Wixonic on SoloLearn](https://www.sololearn.com/Profile/16606191/?ref=app)**
-
-
-> <b id="a">*</b> : There are four types of notes :
-> - <code>\<note>\</note></code>
-> - <code>\<note type="info">\</note></code>
-> - <code>\<note type="warning">\</note></code>
-> - <code>\<note type="critical">\</note></code>
