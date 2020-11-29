@@ -21,6 +21,11 @@ donut ol > ol > li,donut ul > ul > li{margin: 10px 0px 10px 40px;}
 donut ol > ol > ol > li,donut ul > ul > ul > li{margin: 10px 0px 10px 60px;}
 donut ol > ol > ol > ol > li,donut ul > ul > ul > ul > li{margin: 10px 0px 10px 80px;}
 donut li{margin: 10px 0px 10px 20px;}
+donut table{border-collapse: collapse;}
+donut th,donut td{text-align: center;border: 1px solid rgb(155,155,155,0.25);border-top: none;border-right: none;padding: 5px;}
+donut th:first-child,donut td:first-child{border-left: none;}
+donut tr:last-child > th,donut tr:last-child > td{border-bottom: none;}
+donut th{font-weight: bold;border-color: black;}
 donut code,donut .code,donut code > red,donut .code > red,donut code > orange,donut .code > orange,donut code > green,donut .code > green{font-family: Menlo!important;transition: 200ms;}
 donut code,donut .code{display: inline-block;max-width: calc(100% - 10px);background: rgb(25,25,30);color: white;font-size: 80%;white-space: nowrap;border-radius: 4px;margin: 5px 0;padding: 3px 5px;overflow: scroll;}
 donut code > red,donut .code > red{color: rgb(255,100,80);}
