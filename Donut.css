@@ -232,6 +232,43 @@ donut li
 
 
 
+/* TABLES */
+
+donut table
+{
+	border-collapse: collapse;
+}
+
+donut th,
+donut td
+{
+	text-align: center;
+	border: 1px solid rgb(155,155,155,0.25);
+	border-top: none;
+	border-right: none;
+	padding: 5px;
+}
+
+donut th:first-child,
+donut td:first-child
+{
+	border-left: none;
+}
+
+donut tr:last-child > th,
+donut tr:last-child > td
+{
+	border-bottom: none;
+}
+
+donut th
+{
+	font-weight: bold;
+	border-color: black;
+}
+
+
+
 /* CODE */
 
 donut code,
