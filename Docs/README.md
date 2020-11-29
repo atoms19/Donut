@@ -82,6 +82,8 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 > - <code>\<note type="warning">\</note></code>
 > - <code>\<note type="critical">\</note></code>
 
+**You can also use classes with the value the name of the tag you want to apply to any tag (except lists and tables).**
+
 ## License
 
 Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/Docs/LICENSE.txt)** license.
