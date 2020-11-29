@@ -31,6 +31,7 @@ donut *
 	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
+	vertical-align: baseline;
 	
 	background: none;
 	border: none;
@@ -52,10 +53,50 @@ donut *:focus
 
 /* Text */
 
+donut p,
+donut .p
+{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 donut b,
 donut .b
 {
 	font-weight: bold;
+}
+
+donut u,
+donut .u
+{
+	text-decoration: underline;
+}
+
+donut i,
+donut .i
+{
+	font-style: italic;
+}
+
+donut sub,
+donut .sub,
+donut sup,
+donut .sup
+{
+	font-size: 65%;
+}
+
+donut sub,
+donut .sub
+{
+	vertical-align: sub;
+}
+
+donut sup,
+donut .sup
+{
+	vertical-align: super;
 }
 
 /* Headers */
