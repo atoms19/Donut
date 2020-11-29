@@ -76,13 +76,13 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <tr><td>Table : Data Cell</td><td><code>&#60td&#62</code> in <code>&#60tr&#62</code></td></tr>
 </table>
 
+**You can also use classes with the value the name of the tag you want to apply to any tag (except lists and tables).**
+
 > <b id="a">*</b> : There are four types of notes :
 > - <code>\<note>\</note></code>
 > - <code>\<note type="info">\</note></code>
 > - <code>\<note type="warning">\</note></code>
 > - <code>\<note type="critical">\</note></code>
-
-**You can also use classes with the value the name of the tag you want to apply to any tag (except lists and tables).**
 
 ## License
 
