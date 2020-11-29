@@ -52,7 +52,11 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <table>
 <tr><th>Name</th><th>Code</th></tr>
 <tr><td>Paragraph</td><td><code>&#60p&#62</code></td></tr>
-<tr><td>Bold</td><td><code>&#60b&#62</code></td></tr>
+<tr><td>Text : Bold</td><td><code>&#60b&#62</code></td></tr>
+<tr><td>Text : Italic</td><td><code>&#60i&#62</code></td></tr>
+<tr><td>Text : Underlined</td><td><code>&#60u&#62</code></td></tr>
+<tr><td>Text : Subscripted</td><td><code>&#60sub&#62</code></td></tr>
+<tr><td>Text : Superscripted</td><td><code>&#60sup&#62</code></td></tr>
 <tr><td>Header : 1</td><td><code>&#60h1&#62</code></td></tr>
 <tr><td>Header : 2</td><td><code>&#60h2&#62</code></td></tr>
 <tr><td>Header : 3</td><td><code>&#60h3&#62</code></td></tr>
