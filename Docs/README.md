@@ -26,13 +26,13 @@ To use Donut, you must first download it.
 Copy this to your code :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.1/Donut.css" rel="stylesheet" />
 ```
 
 Minified version :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.min.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.1/Donut.min.css" rel="stylesheet" />
 ```
 
 <h3 id="howwork">How Does It Work ?</h3>
