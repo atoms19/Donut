@@ -78,9 +78,10 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 **You can also use classes with the value the name of the tag you want to apply to any tag (except lists and tables).**
 
-> <b id="a">*</b> : There are four types of notes :
+> <b id="a">*</b> : There are five types of notes :
 > - <code>\<note>\</note></code>
 > - <code>\<note type="info">\</note></code>
+> - <code>\<note type="comment">\</note></code>
 > - <code>\<note type="warning">\</note></code>
 > - <code>\<note type="critical">\</note></code>
 
