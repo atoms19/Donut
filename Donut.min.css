@@ -1,5 +1,5 @@
 donut{display: block;}
-donut,donut *{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;-webkit-appearance: none;-moz-appearance: none;-ms-appearance: none;appearance: none;-webkit-touch-callout: none;font-family: Avenir Next, Avenir, Futura;font-size: 100%;font-weight: normal;text-decoration: none;background: none;border: none;border-radius: 0;margin: 0;padding: 0;}
+donut,donut *{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;-webkit-appearance: none;-moz-appearance: none;-ms-appearance: none;appearance: none;-webkit-touch-callout: none;font-family: Avenir Next, Avenir, Futura;font-size: 100%;font-style: normal;font-weight: normal;text-decoration: none;background: none;border: none;border-radius: 0;margin: 0;padding: 0;}
 donut *:active,donut *:focus{outline: none;}
 donut b,donut .b{font-weight: bold;}
 donut h1,donut .h1,donut h2,donut .h2,donut h3,donut .h3{font-weight: bold;margin: 5px 0;}
