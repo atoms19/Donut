@@ -26,13 +26,13 @@ To use Donut, you must first download it.
 Copy this to your code :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.1/Donut.css" rel="stylesheet" />
 ```
 
 Minified version :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.0/Donut.min.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.1/Donut.min.css" rel="stylesheet" />
 ```
 
 <h3 id="howwork">How Does It Work ?</h3>
@@ -52,19 +52,31 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <table>
 <tr><th>Name</th><th>Code</th></tr>
 <tr><td>Paragraph</td><td><code>&#60p&#62</code></td></tr>
-<tr><td>Bold</td><td><code>&#60b&#62</code></td></tr>
-<tr><td>Header 1</td><td><code>&#60h1&#62</code></td></tr>
-<tr><td>Header 2</td><td><code>&#60h2&#62</code></td></tr>
-<tr><td>Header 3</td><td><code>&#60h3&#62</code></td></tr>
+<tr><td>Text : Bold</td><td><code>&#60b&#62</code></td></tr>
+<tr><td>Text : Italic</td><td><code>&#60i&#62</code></td></tr>
+<tr><td>Text : Underlined</td><td><code>&#60u&#62</code></td></tr>
+<tr><td>Text : Subscripted</td><td><code>&#60sub&#62</code></td></tr>
+<tr><td>Text : Superscripted</td><td><code>&#60sup&#62</code></td></tr>
+<tr><td>Header : 1</td><td><code>&#60h1&#62</code></td></tr>
+<tr><td>Header : 2</td><td><code>&#60h2&#62</code></td></tr>
+<tr><td>Header : 3</td><td><code>&#60h3&#62</code></td></tr>
 <tr><td>Link</td><td><code>&#60a&#62</code></td></tr>
 <tr><td>Button</td><td><code>&#60button&#62</code></td></tr>
-<tr><td>Abbreviated button</td><td><code>&#60btn&#62</code></td></tr>
+<tr><td>Button : Abbreviated</td><td><code>&#60btn&#62</code></td></tr>
 <tr><td>Note<a href="#a">*</a></td><td><code>&#60note&#62</code><a href="#a">*</a></td></tr>
 <tr><td>Code</td><td><code>&#60code&#62</code></td></tr>
-<tr><td>Red Code</td><td><code>&#60red&#62</code> in <code>&#60code&#62</code></td></tr>
-<tr><td>Orange Code</td><td><code>&#60orange&#62</code> in <code>&#60code&#62</code></td></tr>
-<tr><td>Green Code</td><td><code>&#60green&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Red</td><td><code>&#60red&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Orange</td><td><code>&#60orange&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Green</td><td><code>&#60green&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>List</td><td><code>&#60ul&#62</code> or <code>&#60ol&#62</code></td></tr>
+<tr><td>List : Item</td><td><code>&#60li&#62</code> in <code>&#60ul&#62</code> or <code>&#60ol&#62</code></td></tr>
+<tr><td>Table</td><td><code>&#60table&#62</code></td></tr>
+<tr><td>Table : Row</td><td><code>&#60tr&#62</code> in <code>&#60table&#62</code></td></tr>
+<tr><td>Table : Header Cell</td><td><code>&#60th&#62</code> in <code>&#60tr&#62</code></td></tr>
+<tr><td>Table : Data Cell</td><td><code>&#60td&#62</code> in <code>&#60tr&#62</code></td></tr>
 </table>
+
+**You can also use classes with the value the name of the tag you want to apply to any tag (except lists and tables).**
 
 > <b id="a">*</b> : There are four types of notes :
 > - <code>\<note>\</note></code>

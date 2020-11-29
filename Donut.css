@@ -28,8 +28,10 @@ donut *
 	
 	font-family: Avenir Next, Avenir, Futura;
 	font-size: 100%;
+	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
+	vertical-align: baseline;
 	
 	background: none;
 	border: none;
@@ -51,10 +53,50 @@ donut *:focus
 
 /* Text */
 
+donut p,
+donut .p
+{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 donut b,
 donut .b
 {
 	font-weight: bold;
+}
+
+donut u,
+donut .u
+{
+	text-decoration: underline;
+}
+
+donut i,
+donut .i
+{
+	font-style: italic;
+}
+
+donut sub,
+donut .sub,
+donut sup,
+donut .sup
+{
+	font-size: 65%;
+}
+
+donut sub,
+donut .sub
+{
+	vertical-align: sub;
+}
+
+donut sup,
+donut .sup
+{
+	vertical-align: super;
 }
 
 /* Headers */
@@ -228,6 +270,43 @@ donut ul > ul > ul > ul > li
 donut li
 {
 	margin: 10px 0px 10px 20px;
+}
+
+
+
+/* TABLES */
+
+donut table
+{
+	border-collapse: collapse;
+}
+
+donut th,
+donut td
+{
+	text-align: center;
+	border: 1px solid rgb(155,155,155,0.25);
+	border-top: none;
+	border-right: none;
+	padding: 5px;
+}
+
+donut th:first-child,
+donut td:first-child
+{
+	border-left: none;
+}
+
+donut tr:last-child > th,
+donut tr:last-child > td
+{
+	border-bottom: none;
+}
+
+donut th
+{
+	font-weight: bold;
+	border-color: black;
 }
 
 
