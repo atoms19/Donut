@@ -1,6 +1,6 @@
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/datas/Default/files/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
-> A pure CSS library created by **Wixonic**
+> A pure CSS library created by **Lunairia**
 
 <b><ul>
 	<li><a href="#intro">Introduction</a></li>
@@ -9,14 +9,14 @@
 		<li><a href="#download">Download Donut</a></li>
 		<li><a href="#howwork">How Does It Work ?</a></li>
 	</ul>
-	<li><a href="#style">Stylized Tags</a></li>
+	<li><a href="#tags">Stylized Tags</a></li>
 	<li><a href="#license">License</a></li>
-	<li><a href="#links">Links</a></li>
+	<li><a href="#link">Link</a></li>
 </ul></b>
 
 <h2 id="intro">Introduction</h2>
 
-**Donut** is a pure CSS library created by **[Wixonic](https://github.com/Wixonic/)**. This library makes it possible to make a simple, modern and airy web page without adding (or a very little) CSS !
+**Donut** is a pure CSS library created by **[Lunairia](https://github.com/Lunairia/)**. This library makes it possible to make a simple, modern and airy web page without adding (or a very little) CSS !
 
 <h2 id="start">Start With Donut</h2>
 
@@ -47,7 +47,7 @@ To tell CSS that you are using Donut, you must put the following tag :
 After that, you can put any HTML tag in this one :
 tags will be stylized by Donut or non-stylized if they are not included in Donut.
 
-## Stylized Tags
+<h2 id="tags">Stylized Tags</h2>
 
 <table>
 <tr><th>Name</th><th>Code</th></tr>
@@ -89,12 +89,6 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/Docs/LICENSE.txt)** license.
 
-## Links
+## Link
 
-**[Lunairia on GitHub](https://github.com/Lunairia/)
- • 
-[Wixonic on GitHub](https://github.com/Wixonic/)
- • 
-[Wixonic on MDN](https://developer.mozilla.org/en-US/profiles/Wixonic/)
- • 
-[Wixonic on SoloLearn](https://www.sololearn.com/Profile/16606191/?ref=app)**
+**[Lunairia on GitHub](https://github.com/Lunairia/)**
