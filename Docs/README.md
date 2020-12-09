@@ -1,4 +1,4 @@
-[![Donut's Logo](https://cdn.jsdelivr.net/Lunairia/lunairia/files/Donut's%20Logo.png)](https://github.com/Wixonic/Donut/)
+[![Donut's Logo](https://cdn.jsdelivr.net/Lunairia/Datas@20201209/files/Donut's%20Logo.png)](https://github.com/Lunairia/Donut/)
 
 > A pure CSS library created by **Wixonic**
 
@@ -26,13 +26,13 @@ To use Donut, you must first download it.
 Copy this to your code :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.1/Donut.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Lunairia/Donut@1.1/Donut.css" rel="stylesheet" />
 ```
 
 Minified version :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Wixonic/Donut@1.1/Donut.min.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Lunairia/Donut@1.1/Donut.min.css" rel="stylesheet" />
 ```
 
 <h3 id="howwork">How Does It Work ?</h3>
@@ -87,11 +87,11 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 ## License
 
-Donut is available under **[MIT](https://github.com/Wixonic/Donut/blob/Default/Docs/LICENSE.txt)** license.
+Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/Docs/LICENSE.txt)** license.
 
 ## Links
 
-**[Wixonic on GitHub](https://github.com/Wixonic/)
+**[Lunairia on GitHub](https://github.com/Lunairia/)
  • 
 [Wixonic on MDN](https://developer.mozilla.org/en-US/profiles/Wixonic/)
  • 
