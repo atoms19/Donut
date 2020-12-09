@@ -93,6 +93,8 @@ Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/
 
 **[Lunairia on GitHub](https://github.com/Lunairia/)
  • 
+**[Wixonic on GitHub](https://github.com/Wixonic/)
+ • 
 [Wixonic on MDN](https://developer.mozilla.org/en-US/profiles/Wixonic/)
  • 
 [Wixonic on SoloLearn](https://www.sololearn.com/Profile/16606191/?ref=app)**
