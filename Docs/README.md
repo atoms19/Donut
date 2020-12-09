@@ -1,4 +1,4 @@
-[![Donut's Logo](https://raw.githubusercontent.com/Lunairia/datas/Default/files/Donut's%20Logo.png)](https://github.com/Lunairia/Donut/)
+[![Donut's Logo](https://raw.githubusercontent.com/Lunairia/datas/Default/files/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
 > A pure CSS library created by **Wixonic**
 
