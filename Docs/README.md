@@ -1,4 +1,4 @@
-# SEE DESIGN [HERE](https://lunairia.github.io/Donut/Test.html)
+<center text-align="center"><h1>SEE DESIGN <a href="https://lunairia.github.io/Donut/Test.html">HERE</a></center>
 
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
