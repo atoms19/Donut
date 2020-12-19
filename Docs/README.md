@@ -2,7 +2,7 @@
 
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
-> A pure CSS library created by **Lunairia**
+> A pure CSS framework created by **Lunairia**
 
 <b><ul>
 	<li><a href="#intro">Introduction</a></li>
