@@ -1,15 +1,10 @@
-/* DONUT */
-
-/* donut */
-
-donut
+body
+donut,
 {
 	display: block;
+	background: rgb(240,240,245);
+	color: black;
 }
-
-
-
-/* ALL */
 
 donut,
 donut *
@@ -18,27 +13,25 @@ donut *
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-	
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-	
 	-webkit-touch-callout: none;
-	
+	background: none;
+	color: black;
 	font-family: Avenir Next, Avenir, Futura;
 	font-size: 100%;
 	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
 	vertical-align: baseline;
-	
-	background: none;
 	border: none;
+	border-color: black;
 	border-radius: 0;
-	
 	margin: 0;
 	padding: 0;
+	outline: none;
 }
 
 donut *:active,
@@ -46,12 +39,6 @@ donut *:focus
 {
 	outline: none;
 }
-
-
-
-/* GLOBAL */
-
-/* Text */
 
 donut p,
 donut .p
@@ -99,8 +86,6 @@ donut .sup
 	vertical-align: super;
 }
 
-/* Headers */
-
 donut h1,
 donut .h1,
 donut h2,
@@ -117,7 +102,7 @@ donut .h1,
 donut h2,
 donut .h2
 {
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid;
 }
 
 donut h1,
@@ -138,18 +123,15 @@ donut .h3
 	font-size: 120%;
 }
 
-/* Buttons */
-
 donut button,
 donut .button,
 donut btn,
 donut .btn
 {
 	display: inline-block;
-	color: white;
 	font-weight: bold;
 	font-size: 85%;
-	background: black;
+	background: rgb(155,155,155,0.1);
 	border: 1px solid transparent;
 	border-radius: 8px;
 	margin: 2px;
@@ -162,8 +144,6 @@ donut .button:hover,
 donut btn:hover,
 donut .btn:hover
 {
-	color: black;
-	background: none;
 	border: 1px solid black;
 }
 
@@ -172,12 +152,9 @@ donut .button:active,
 donut btn:active,
 donut .btn:active
 {
-	color: black;
 	background: none;
 	border-color: transparent;
 }
-
-/* Links */
 
 donut a,
 donut .a
@@ -207,16 +184,17 @@ donut .a:active
 	border-radius: 12px;
 }
 
-/* Imgs */
-
 donut img,
 donut .img
 {
 	max-width: 100%;
-	border-radius: 6px;
+	border-radius: 8px;
 }
 
-/* Forms */
+donut ::placeholder
+{
+	color: rgba(155,155,155,0.8);
+}
 
 donut input,
 donut .input,
@@ -241,9 +219,7 @@ donut .select
 	user-select: all;
 }
 
-/* Lists */
-
-donut li::marker
+donut ::marker
 {
 	width: 20px;
 	font-weight: bold;
@@ -272,10 +248,6 @@ donut li
 	margin: 10px 0px 10px 20px;
 }
 
-
-
-/* TABLES */
-
 donut table
 {
 	border-collapse: collapse;
@@ -285,7 +257,7 @@ donut th,
 donut td
 {
 	text-align: center;
-	border: 1px solid rgb(155,155,155,0.25);
+	border: 1px solid;
 	border-top: none;
 	border-right: none;
 	padding: 5px;
@@ -306,24 +278,19 @@ donut tr:last-child > td
 donut th
 {
 	font-weight: bold;
-	border-color: black;
 }
 
-
-
-/* CODE */
+donut td
+{
+	border-color: rgb(155,155,155,0.3);
+}
 
 donut code,
 donut .code,
-donut code > red,
-donut .code > red,
-donut code > orange,
-donut .code > orange,
-donut code > green,
-donut .code > green
+donut code > *,
+donut .code > *
 {
-	font-family: Menlo!important;
-	transition: 200ms;
+	font-family: "Bitstream Vera Sans Mono","DejaVu Sans Mono",Menlo!important;
 }
 
 donut code,
@@ -331,8 +298,7 @@ donut .code
 {
 	display: inline-block;
 	max-width: calc(100% - 10px);
-	background: rgb(25,25,30);
-	color: white;
+	background: rgba(155,155,155,0.1);
 	font-size: 80%;
 	white-space: nowrap;
 	border-radius: 4px;
@@ -344,30 +310,56 @@ donut .code
 donut code > red,
 donut .code > red
 {
-	color: rgb(255,100,80);
+	color: rgb(255,0,0);
 }
 
 donut code > orange,
 donut .code > orange
 {
-	color: rgb(255,170,100);
+	color: rgb(230,140,0);
+}
+
+donut code > yellow,
+donut .code > yellow
+{
+	color: rgb(200,200,0);
+}
+
+donut code > lime,
+donut .code > lime
+{
+	color: rgb(20,210,20);
 }
 
 donut code > green,
 donut .code > green
 {
-	color: rgb(150,255,150);
+	color: rgb(0,150,0);
 }
 
+donut code > aqua,
+donut .code > aqua
+{
+	color: rgb(50,150,255);
+}
 
+donut code > blue,
+donut .code > blue
+{
+	color: rgb(0,25,200);
+}
 
-/* NOTES */
+donut code > gray,
+donut .code > gray
+{
+	color: rgb(200,200,200);
+}
 
 donut note,
 donut .note
 {
 	display: inline-block;
-	background: rgba(200,200,0,0.2);
+	background: rgba(255,255,0,0.2);
 	color: rgb(200,200,0);
 	border-left: 1px solid rgb(200,200,0);
 	border-radius: 0 6px 6px 0;
@@ -378,7 +370,7 @@ donut .note
 donut note[type="comment"],
 donut .note[type="comment"]
 {
-	background: rgba(155,155,155,0.2);
+	background: rgba(200,200,200,0.2);
 	color: rgb(155,155,155);
 	border-color: rgb(155,155,155);
 }
@@ -386,7 +378,7 @@ donut .note[type="comment"]
 donut note[type="info"],
 donut .note[type="info"]
 {
-	background: rgba(50,150,255,0.2);
+	background: rgba(100,200,255,0.2);
 	color: rgb(50,150,255);
 	border-color: rgb(50,150,255);
 }
@@ -394,9 +386,9 @@ donut .note[type="info"]
 donut note[type="warning"],
 donut .note[type="warning"]
 {
-	background: rgba(255,100,0,0.2);
-	color: rgb(255,100,0);
-	border-color: rgb(255,100,0);
+	background: rgba(255,200,0,0.2);
+	color: rgb(255,155,0);
+	border-color: rgb(255,155,0);
 }
 
 donut note[type="critical"],
@@ -407,4 +399,75 @@ donut .note[type="critical"]
 	border-color: rgb(255,50,20);
 }
 
-/* DONUT */
+@media (prefers-color-scheme: dark)
+{
+	donut,
+	body
+	{
+		background: rgb(20,20,30);
+	}
+	
+	body,
+	donut,
+	donut *
+	{
+		color: white;
+		border-color: white;
+	}
+	
+	donut button:hover,
+	donut .button:hover,
+	donut btn:hover,
+	donut .btn:hover
+	{
+		border: 1px solid white;
+	}
+	
+	donut code > red,
+	donut .code > red
+	{
+		color: rgb(255,100,80);
+	}
+	
+	donut code > orange,
+	donut .code > orange
+	{
+		color: rgb(255,170,100);
+	}
+	
+	donut code > yellow,
+	donut .code > yellow
+	{
+		color: rgb(255,255,100);
+	}
+	
+	donut code > lime,
+	donut .code > lime
+	{
+		color: rgb(150,255,150);
+	}
+	
+	donut code > green,
+	donut .code > green
+	{
+		color: rgb(60,200,60);
+	}
+	
+	donut code > aqua,
+	donut .code > aqua
+	{
+		color: rgb(100,200,255);
+	}
+	
+	donut code > blue,
+	donut .code > blue
+	{
+		color: rgb(0,100,255);
+	}
+	
+	donut code > gray,
+	donut .code > gray
+	{
+		color: rgb(100,100,100);
+	}
+}
