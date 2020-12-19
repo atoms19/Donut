@@ -181,7 +181,6 @@ donut .a:active
 	color: white;
 	background: rgb(50,150,255);
 	border-color: transparent;
-	border-radius: 12px;
 }
 
 donut img,
