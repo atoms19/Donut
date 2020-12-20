@@ -5,6 +5,8 @@
 [![Last Stable Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square)](https://github.com/Lunairia/Donut/releases/latest)
 [![Bug Issues](https://img.shields.io/github/issues/Lunairia/Donut/Bug?label=Bug%20Issues&logo=Bug%20Issues&style=flat-square)](https://github.com/Lunairia/Donut/issues?q=is%3Aopen+is%3Aissue+label%3ABug)
 
+[![Size of Minified Version](https://img.shields.io/github/size/Lunairia/Donut/Donut.min.css?label=Size%20of%20Minified%20Version&logo=Size%20of%20Minified%20Version&style=flat-square)](https://github.com/Lunairia/Donut/Donut.min.css)
+
 [![Issues](https://img.shields.io/github/issues/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues)
 [![Issues](https://img.shields.io/github/issues-closed/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls)
