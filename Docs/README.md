@@ -32,6 +32,7 @@
 		<li><a href="#howwork">How Does It Work ?</a></li>
 	</ul>
 	<li><a href="#tags">Stylized Tags</a></li>
+	<li><a href="#darkmode">Darkmode</a></li>
 	<li><a href="#license">License</a></li>
 	<li><a href="#link">Link</a></li>
 </ul></b>
@@ -48,13 +49,13 @@ To use Donut, you must first download it.
 Copy this to your code :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Lunairia/Donut@1.1/Donut.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Lunairia/Donut@2.0/Donut.css" rel="stylesheet" />
 ```
 
 Minified version :
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/Lunairia/Donut@1.1/Donut.min.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/Lunairia/Donut@2.0/Donut.min.css" rel="stylesheet" />
 ```
 
 <h3 id="howwork">How Does It Work ?</h3>
@@ -110,6 +111,10 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 > - <code>\<note type="comment">\</note></code>
 > - <code>\<note type="warning">\</note></code>
 > - <code>\<note type="critical">\</note></code>
+
+## Darkmode
+
+Donut has a darkmode.
 
 ## License
 
