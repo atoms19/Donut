@@ -7,10 +7,10 @@
 
 [![Size of Minified Version](https://img.shields.io/github/size/Lunairia/Donut/Donut.min.css?label=Size%20of%20Minified%20Version&logo=Size%20of%20Minified%20Version&style=flat-square)](https://github.com/Lunairia/Donut/Donut.min.css)
 
-[![Issues](https://img.shields.io/github/issues/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues)
-[![Issues](https://img.shields.io/github/issues-closed/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls)
-[![Pull Requests](https://img.shields.io/github/issues-pr-closed/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls)
+[![Issues](https://img.shields.io/github/issues/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues?q=is%3Aissue+is%3Aopen)
+[![Issues](https://img.shields.io/github/issues-closed/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues?q=is%3Aissue+is%3Aclosed)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls?q=is%3Apr+is%3Aopen)
+[![Pull Requests](https://img.shields.io/github/issues-pr-closed/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls?q=is%3Apr+is%3Aclosed)
 
 [![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
 [![Commit Activity](https://img.shields.io/github/commit-activity/m/Lunairia/Donut?color=blue&label=Commit%20Activity&logo=Commit%20Activity&logoColor=blue&style=flat-square)](https://github.com/Lunairia/Donut/graphs/commit-activity)
