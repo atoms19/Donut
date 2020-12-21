@@ -12,7 +12,7 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls?q=is%3Apr+is%3Aopen)
 [![Pull Requests](https://img.shields.io/github/issues-pr-closed/Lunairia/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/pulls?q=is%3Apr+is%3Aclosed)
 
-[![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
+[![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](https://github.com/Lunairia/Donut/milestone/1)
 [![Commit Activity](https://img.shields.io/github/commit-activity/m/Lunairia/Donut?color=blue&label=Commit%20Activity&logo=Commit%20Activity&logoColor=blue&style=flat-square)](https://github.com/Lunairia/Donut/graphs/commit-activity)
 
 [![Contributors](https://img.shields.io/github/contributors/Lunairia/Donut?color=gray&label=Contributors&logo=Contributors&logoColor=gray&style=flat-square)](https://github.com/Lunairia/Donut/graphs/contributors)
