@@ -73,6 +73,7 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 <table>
 <tr><th>Name</th><th>Code</th></tr>
+<tr><td>Body</td><td><code>&#60body&#62</code></td></tr>
 <tr><td>Paragraph</td><td><code>&#60p&#62</code></td></tr>
 <tr><td>Text : Bold</td><td><code>&#60b&#62</code></td></tr>
 <tr><td>Text : Italic</td><td><code>&#60i&#62</code></td></tr>
@@ -89,7 +90,12 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <tr><td>Code</td><td><code>&#60code&#62</code></td></tr>
 <tr><td>Code : Red</td><td><code>&#60red&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>Code : Orange</td><td><code>&#60orange&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Yellow</td><td><code>&#60yellow&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Lime</td><td><code>&#60lime&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>Code : Green</td><td><code>&#60green&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Aqua</td><td><code>&#60aqua&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Blue</td><td><code>&#60blue&#62</code> in <code>&#60code&#62</code></td></tr>
+<tr><td>Code : Comment</td><td><code>&#60gray&#62</code> in <code>&#60code&#62</code></td></tr>
 <tr><td>List</td><td><code>&#60ul&#62</code> or <code>&#60ol&#62</code></td></tr>
 <tr><td>List : Item</td><td><code>&#60li&#62</code> in <code>&#60ul&#62</code> or <code>&#60ol&#62</code></td></tr>
 <tr><td>Table</td><td><code>&#60table&#62</code></td></tr>
