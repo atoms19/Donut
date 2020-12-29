@@ -1,6 +1,8 @@
 {
   "releases": {
-    "automatic": false
+    "automatic": {
+      "milestones": false
+    }
   },
   "tidying": {
     "pages": false
