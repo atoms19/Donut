@@ -1,4 +1,7 @@
 {
+  "releases": {
+    "automatic": true
+  },
   "tidying": {
     "pages": false
   }
