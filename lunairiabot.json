@@ -1,6 +1,6 @@
 {
   "releases": {
-    "automatic": true
+    "automatic": false
   },
   "tidying": {
     "pages": false
