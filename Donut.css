@@ -31,6 +31,7 @@ donut *
 	border-radius: 0;
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 	outline: none;
 }
 
@@ -58,6 +59,12 @@ donut u,
 donut .u
 {
 	text-decoration: underline;
+}
+
+donut o,
+donut .o
+{
+	text-decoration: overline;
 }
 
 donut i,
@@ -162,8 +169,6 @@ donut .a
 	display: inline;
 	color: rgb(50,150,255);
 	font-weight: bold;
-	border-top: 1px solid transparent;
-	border-bottom: 1px solid transparent;
 	transition: 200ms;
 }
 
@@ -171,8 +176,8 @@ donut a:hover,
 donut .a:hover
 {
 	color: rgb(50,150,255);
+	text-decoration: underline overline;
 	background: none;
-	border-color: rgb(50,150,255);
 }
 
 donut a:active,
@@ -180,7 +185,6 @@ donut .a:active
 {
 	color: white;
 	background: rgb(50,150,255);
-	border-color: transparent;
 }
 
 donut img,
@@ -205,17 +209,23 @@ donut .textaea
 	-ms-user-select: text;
 	user-select: text;
 	display: inline-block;
-	text-align: center;
 	resize: none;
+	background: rgba(155,155,155,0.15);
+	text-align: center;
+	margin: 3px;
+	padding: 2px 8px;
 }
 
-donut select,
-donut .select
+donut input,
+donut .input
 {
-	-webkit-user-select: all;
-	-moz-user-select: all;
-	-ms-user-select: all;
-	user-select: all;
+	border-radius: 10px;
+}
+
+donut textarea,
+donut .textarea
+{
+	border-radius: 3px;
 }
 
 donut ::marker
@@ -257,15 +267,13 @@ donut td
 {
 	text-align: center;
 	border: 1px solid;
-	border-top: none;
-	border-right: none;
 	padding: 5px;
 }
 
-donut th:first-child,
-donut td:first-child
+donut tr:first-child > th,
+donut tr:first-child > td
 {
-	border-left: none;
+	border-top: none;
 }
 
 donut tr:last-child > th,
@@ -274,9 +282,22 @@ donut tr:last-child > td
 	border-bottom: none;
 }
 
+donut th:first-child,
+donut td:first-child
+{
+	border-left: none;
+}
+
+donut th:last-child,
+donut td:last-child
+{
+	border-right: none;
+}
+
 donut th
 {
 	font-weight: bold;
+	border-color: black;
 }
 
 donut td
@@ -420,6 +441,11 @@ donut .note[type="critical"]
 	donut .btn:hover
 	{
 		border: 1px solid white;
+	}
+	
+	donut th
+	{
+		border-color: white;
 	}
 	
 	donut code > red,
