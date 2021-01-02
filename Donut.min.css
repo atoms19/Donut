@@ -6,7 +6,7 @@ donut b,donut .b{font-weight:bold;}
 donut u,donut .u{text-decoration:underline;}
 donut o,donut .o{text-decoration:overline;}
 donut i,donut .i{font-style:italic;}
-donut sub,donut .sub,donut sup,donut .sup{font-size:65%;}
+donut sub,donut .sub,donut sup,donut .sup{font-size:0.65em;}
 donut sub,donut .sub{vertical-align:sub;}
 donut sup,donut .sup{vertical-align:super;}
 donut h1,donut .h1,donut h2,donut .h2,donut h3,donut .h3{
