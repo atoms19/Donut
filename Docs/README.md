@@ -116,7 +116,7 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 ## Darkmode
 
-Donut has a darkmode.
+Donut has a dark mode compatible with iOS 13 or later, iPadOS 13 or later, WatchOS 7 or later, MacOS Big Sur or later, and all devices that support dark mode and media queries.
 
 ## License
 
