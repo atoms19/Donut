@@ -12,10 +12,10 @@ donut sup,donut .sup{vertical-align:super;}
 donut h1,donut .h1,donut h2,donut .h2,donut h3,donut .h3{
 font-weight:bold;margin:5px 0;}
 donut h1,donut .h1,donut h2,donut .h2{border-bottom:1px solid;}
-donut h1,donut .h1{font-size:200%;}
-donut h2,donut .h2{font-size:160%;}
-donut h3,donut .h3{font-size: 120%;}
-donut button,donut .button,donut btn,donut .btn{display:inline-block;font-weight:bold;font-size:85%;background:rgb(155,155,155,0.1);border:1px solid transparent;border-radius:8px;margin:2px;padding:3px 8px;transition:200ms;}
+donut h1,donut .h1{font-size:2em;}
+donut h2,donut .h2{font-size:1.6em;}
+donut h3,donut .h3{font-size:1.2em;}
+donut button,donut .button,donut btn,donut .btn{display:inline-block;font-weight:bold;font-size:0.85em;background:rgb(155,155,155,0.1);border:1px solid transparent;border-radius:8px;margin:2px;padding:3px 8px;transition:200ms;}
 donut button:hover,donut .button:hover,donut btn:hover,donut .btn:hover{border:1px solid black;}
 donut button:active,donut .button:active,donut btn:active,donut .btn:active{background:none;border-color:transparent;}
 donut a,donut .a{display:inline;color:rgb(50,150,255);font-weight:bold;transition:200ms;}
@@ -40,7 +40,7 @@ donut th:last-child,donut td:last-child{border-right:none;}
 donut th{font-weight:bold;border-color:black;}
 donut td{border-color:rgb(155,155,155,0.3);}
 donut code,donut .code,donut code>*,donut .code>*{font-family:"Bitstream Vera Sans Mono","DejaVu Sans Mono",Menlo!important;}
-donut code,donut .code{display:inline-block;max-width:calc(100%-10px);background:rgba(155,155,155,0.1);font-size:80%;white-space:nowrap;border-radius:4px;margin:5px 0;padding:3px 5px;overflow:scroll;}
+donut code,donut .code{display:inline-block;max-width:calc(100%-10px);background:rgba(155,155,155,0.1);font-size:0.85em!important;white-space:nowrap;border-radius:4px;margin:5px 0;padding:3px 5px;overflow:scroll;}
 donut code>red,donut .code>red{color:rgb(255,0,0);}
 donut code>orange,donut .code>orange{color:rgb(230,140,0);}
 donut code>yellow,donut .code>yellow{color:rgb(200,200,0);}
