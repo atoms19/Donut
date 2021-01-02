@@ -103,7 +103,7 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 <tr><td>Table : Data Cell</td><td><code>&#60td&#62</code> in <code>&#60tr&#62</code></td></tr>
 <tr><td>Input</td><td><code>&#60input&#62</code></td></tr>
 <tr><td>Text Area</td><td><code>&#60textarea&#62</code></td></tr>
-</table><b>You can also use classes with the value the name of the tag you want to apply to any tag (except <code>&#60body&#62</code>, <code>&#60donut&#62</code>, <code>&#60ul&#62</code>, <code>&#60ol&#62</code>, <code>&#60li&#62</code>, <code>&#60table&#62</code>, <code>&#60tr&#62</code>, <code>&#60th&#62</code>, <code>&#60td&#62</code> and highlight tags in <code>&#60code&#62</code>).</b><br /><br />
+</table><b>You can also use classes with the value of the name of the tag you want to apply to any tag (except <code>&#60body&#62</code>, <code>&#60donut&#62</code>, <code>&#60ul&#62</code>, <code>&#60ol&#62</code>, <code>&#60li&#62</code>, <code>&#60table&#62</code>, <code>&#60tr&#62</code>, <code>&#60th&#62</code>, <code>&#60td&#62</code> and highlight tags in <code>&#60code&#62</code>).</b><br /><br />
 
 > <b id="a">*</b> : There are five types of notes :
 > - <code>\<note>\</note></code>
