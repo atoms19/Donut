@@ -1,6 +1,6 @@
-<center text-align="center"><h1>SEE DESIGN <a href="https://lunairia.github.io/Donut/Test.html">HERE</a></center>
-
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
+
+> A pure CSS framework created by **Lunairia**
 
 [![Last Stable Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square)](https://github.com/Lunairia/Donut/releases/latest)
 [![Bug Issues](https://img.shields.io/github/issues/Lunairia/Donut/Bug?label=Bug%20Issues&logo=Bug%20Issues&style=flat-square)](https://github.com/Lunairia/Donut/issues?q=is%3Aopen+is%3Aissue+label%3ABug)
@@ -22,8 +22,6 @@
 
 [![License](https://img.shields.io/github/license/Lunairia/Donut?color=lightgray&label=License&logo=License&logoColor=lightgray&style=flat-square)](https://github.com/Lunairia/Donut/blob/Default/LICENSE)
 
-> A pure CSS framework created by **Lunairia**
-
 <b><ul>
 	<li><a href="#intro">Introduction</a></li>
 	<li><a href="#start">Start With Donut</a></li>
@@ -34,7 +32,7 @@
 	<li><a href="#tags">Stylized Tags</a></li>
 	<li><a href="#darkmode">Darkmode</a></li>
 	<li><a href="#license">License</a></li>
-	<li><a href="#link">Link</a></li>
+	<li><a href="#links">Links</a></li>
 </ul></b>
 
 <h2 id="intro">Introduction</h2>
@@ -122,6 +120,7 @@ Donut has a dark mode compatible with iOS 13 or later, iPadOS 13 or later, Watch
 
 Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/LICENSE)** license.
 
-## Link
+## Links
 
+**[Demo on GitHub Pages](https://lunairia.github.com/Donut/Demo.html)**
 **[Lunairia on GitHub](https://github.com/Lunairia/)**
