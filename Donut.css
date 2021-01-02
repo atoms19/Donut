@@ -21,7 +21,7 @@ donut *
 	background: none;
 	color: black;
 	font-family: Avenir Next, Avenir, Futura;
-	font-size: 100%;
+	font-size: 1em;
 	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
@@ -78,7 +78,7 @@ donut .sub,
 donut sup,
 donut .sup
 {
-	font-size: 65%;
+	font-size: 0.65em;
 }
 
 donut sub,
@@ -115,19 +115,19 @@ donut .h2
 donut h1,
 donut .h1
 {
-	font-size: 200%;
+	font-size: 2em;
 }
 
 donut h2,
 donut .h2
 {
-	font-size: 160%;
+	font-size: 1.6em;
 }
 
 donut h3,
 donut .h3
 {
-	font-size: 120%;
+	font-size: 1.2em;
 }
 
 donut button,
@@ -137,7 +137,7 @@ donut .btn
 {
 	display: inline-block;
 	font-weight: bold;
-	font-size: 85%;
+	font-size: 0.85em;
 	background: rgb(155,155,155,0.1);
 	border: 1px solid transparent;
 	border-radius: 8px;
@@ -319,7 +319,7 @@ donut .code
 	display: inline-block;
 	max-width: calc(100% - 10px);
 	background: rgba(155,155,155,0.1);
-	font-size: 80%;
+	font-size: 0.8em;
 	white-space: nowrap;
 	border-radius: 4px;
 	margin: 5px 0;
