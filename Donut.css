@@ -18,6 +18,7 @@ donut *
 	-ms-appearance: none;
 	appearance: none;
 	-webkit-touch-callout: none;
+	-webkit-tap-highlight-color: transparent;
 	background: none;
 	color: black;
 	font-family: Avenir Next, Avenir, Futura;
