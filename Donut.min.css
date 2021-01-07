@@ -1,3 +1,5 @@
+@keyframes fade{from{opacity:1;}to{opacity:0;}}
+
 body,donut{display:block;background:rgb(240,240,245);color:black;}
 donut,donut *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent;background:none;color:black;font-family:Avenir Next,Avenir,Futura;font-size:100%;font-style:normal;font-weight:normal;text-decoration:none;vertical-align:baseline;border:none;border-color:black;border-radius:0;margin:0;padding:0;box-sizing:border-box;outline:none;}
 donut *:active,donut *:focus{outline: none;}
