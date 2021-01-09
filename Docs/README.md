@@ -2,3 +2,5 @@
 
 > **Donut 2.0** will be released soon !
 > Contribute **[Here](https://github.com/Lunairia/Donut/tree/2.0)**
+
+[1.1 Documentation Here]()
