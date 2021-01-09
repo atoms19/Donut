@@ -31,6 +31,7 @@
 	</ul>
 	<li><a href="#tags">Stylized Tags</a></li>
 	<li><a href="#darkmode">Darkmode</a></li>
+	<li><a href="#animations">Animations</a></li>
 	<li><a href="#license">License</a></li>
 	<li><a href="#links">Links</a></li>
 </ul></b>
@@ -115,6 +116,13 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 ## Darkmode
 
 Donut has a dark mode compatible with all devices that support dark mode and media queries.<br />Browser compatibility **[here](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme#Browser_compatibility)**.
+
+## Animations
+
+<table>
+<tr><th>Name</th><th>Code Name</th><th>Description</th><th>Recommanded Settings</th></tr>
+<tr><td>Fall</td><td><code>fall</code></td><td>Soon...</td><td><ul><li><code>animation: fall 600ms linear;</code></li><li><code>animation: fall 600ms linear infinite alternate;</code></li></ul></td></tr>
+</table>
 
 ## License
 
