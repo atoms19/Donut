@@ -3,4 +3,4 @@
 > **Donut 2.0** will be released soon !
 > Contribute **[Here](https://github.com/Lunairia/Donut/tree/2.0)**
 
-[1.1 Documentation Here](https://github.com/Lunairia/Donut/blob/8e3fd765b1c577f4b46e8c38b6ff12b96b97fb42/Docs/README.md)
+Documentation of V. **[1.1](https://github.com/Lunairia/Donut/releases/1.1)** is **[here](https://github.com/Lunairia/Donut/blob/1.1/Docs/README.md)**.
