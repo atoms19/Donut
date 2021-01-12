@@ -22,7 +22,7 @@ donut button,donut .button,donut btn,donut .btn{display:inline-block;font-weight
 donut button:hover,donut .button:hover,donut btn:hover,donut .btn:hover{border:1px solid black;}
 donut button:active,donut .button:active,donut btn:active,donut .btn:active{background:none;border-color:transparent;}
 donut a,donut .a{display:inline;color:rgb(50,150,255);font-weight:bold;transition:200ms;}
-donut a:hover,donut .a:hover{color:rgb(50,150,255);text-decoration:underline overline;background:none;}
+donut a:hover,donut .a:hover{color:rgb(50,150,255);text-decoration:underline;background:none;}
 donut a:active,donut .a:active{color:white;background:rgb(50,150,255);}
 donut img,donut .img{max-width:100%;border-radius:8px;}
 donut ::placeholder{color:rgba(155,155,155,0.8);}
