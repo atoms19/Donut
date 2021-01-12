@@ -208,7 +208,7 @@ donut a:hover,
 donut .a:hover
 {
 	color: rgb(50,150,255);
-	text-decoration: underline overline;
+	text-decoration: underline;
 	background: none;
 }
 
