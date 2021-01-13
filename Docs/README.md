@@ -1,4 +1,4 @@
-[![Donut's Logo](https://raw.githubusercontent.com/Cryptic-Techs/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Cryptic-Techs/Donut/)
+[![Donut's Logo](https://raw.githubusercontent.com/Cryptic-Techs/Cryptic/Default/Donut's%20Logo.jpg)](https://github.com/Cryptic-Techs/Donut/)
 
 > A pure CSS framework created by **Cryptic Technologies**
 
