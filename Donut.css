@@ -1,9 +1,52 @@
+@keyrames fade
+{
+	from {opacity: 1;}
+	to {opacity: 0;}
+}
+
+@keyframes fall
+{
+	from {transform: translateY(-100px);}
+	8% {transform: translateY(-98px);}
+	12% {transform: translateY(-95px);}
+	15% {transform: translateY(-91px);}
+	19% {transform: translateY(-86px);}
+	23% {transform: translateY(-80px);}
+	26% {transform: translateY(-73px);}
+	30% {transform: translateY(-65px);}
+	34% {transform: translateY(-56px);}
+	37% {transform: translateY(-46px);}
+	41% {transform: translateY(-35px);}
+	45% {transform: translateY(-23px);}
+	48% {transform: translateY(-10px);}
+	52% {transform: translateY(4px);}
+	56% {transform: translateY(19px);}
+	59% {transform: translateY(35px);}
+	63% {transform: translateY(52px);}
+	67% {transform: translateY(70px);}
+	70% {transform: translateY(90px);}
+	85% {transform: translateY(100px) scale(1.1,0.7);}
+	to {transform: translateY(100px) scale(1.3,0.3);}
+}
+
+@keyframes rubberBand
+{
+	from {transform: scale3d(1,1,1);}
+	30% {transform: scale3d(1.25,0.75,1);}
+	40% {transform: scale3d(0.75,1.25,1);}
+	50% {transform: scale3d(1.15,0.85,1);}
+	65% {transform: scale3d(0.95,1.05,1);}
+	75% {transform: scale3d(1.05,0.95,1);}
+	to {transform: scale3d(1,1,1);}
+}
+
 body,
 donut
 {
 	display: block;
 	background: rgb(240,240,245);
 	color: black;
+	word-wrap: break-word;
 }
 
 donut,
@@ -18,9 +61,10 @@ donut *
 	-ms-appearance: none;
 	appearance: none;
 	-webkit-touch-callout: none;
+	-webkit-tap-highlight-color: transparent;
 	background: none;
 	color: black;
-	font-family: Avenir Next, Avenir, Futura;
+	font-family: "Avenir Next", Avenir, Futura;
 	font-size: 1em;
 	font-style: normal;
 	font-weight: normal;
@@ -39,6 +83,15 @@ donut *:active,
 donut *:focus
 {
 	outline: none;
+}
+
+donut .selectable,
+donut .selectable *
+{
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
 }
 
 donut p,
@@ -176,7 +229,7 @@ donut a:hover,
 donut .a:hover
 {
 	color: rgb(50,150,255);
-	text-decoration: underline overline;
+	text-decoration: underline;
 	background: none;
 }
 
@@ -191,7 +244,7 @@ donut img,
 donut .img
 {
 	max-width: 100%;
-	border-radius: 8px;
+	border-radius: 5px;
 }
 
 donut ::placeholder
@@ -259,7 +312,10 @@ donut li
 
 donut table
 {
+	display: block;
 	border-collapse: collapse;
+	max-width: 100%;
+	overflow: scroll;
 }
 
 donut th,
@@ -310,7 +366,7 @@ donut .code,
 donut code > *,
 donut .code > *
 {
-	font-family: "Bitstream Vera Sans Mono","DejaVu Sans Mono",Menlo!important;
+	font-family: "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Menlo;
 }
 
 donut code,
@@ -324,6 +380,7 @@ donut .code
 	border-radius: 4px;
 	margin: 5px 0;
 	padding: 3px 5px;
+	vertical-align: -0.8em;
 	overflow: scroll;
 }
 
