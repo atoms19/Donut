@@ -20,6 +20,6 @@
 [![Watchers](https://img.shields.io/github/watchers/Cryptic-Techs/Donut?color=rgb(20,140,20)&label=Watchers&logo=Watchers&logoColor=rgb(20,140,20)&style=flat-square)](https://github.com/Cryptic-Techs/Donut/watchers)
 [![Forks](https://img.shields.io/github/forks/Cryptic-Techs/Donut?color=blue&label=Forks&logo=Forks&logoColor=blue&style=flat-square)](https://github.com/Cryptic-Techs/Donut/network/members)
 
-[![License](https://img.shields.io/github/license/Cryptic-Techs/Donut?color=lightgray&label=License&logo=License&logoColor=lightgray&style=flat-square)](https://github.com/Cryptic-Techs/Donut/blob/Default/LICENSE)
+[![License](https://img.shields.io/github/license/Cryptic-Techs/Donut?color=lightgray&label=License&logo=License&logoColor=lightgray&style=flat-square)](https://github.com/Cryptic-Techs/Donut/blob/Default/LICENSE.txt)
 
 ### [Wiki](https://cryptic-techs.github.io/Donut)
